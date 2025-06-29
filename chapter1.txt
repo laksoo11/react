@@ -1,0 +1,8 @@
+// hello world 
+
+
+what is a server?
+
+server is a reciever between client and the database. which takes the request from client 
+to database and then sends the responds back to the server and then to the clients.
+
