@@ -1,0 +1,18 @@
+HEY CHAT
+
+datatypes:
+
+string
+number
+bolean 
+object 
+undefined
+null 
+symbols
+
+let loru = 6
+console.log(loru)
+
+const GAYMANS = 6666
+value dosent change 
+
