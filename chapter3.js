@@ -16,3 +16,13 @@ console.log(x + " " + "has 3 apples and "+ b + " oranges")
 
 
 //"david" has 3 apples and "10" oranges
+
+// template string
+let result = `${x} has ${b} apples and ${a} oranges`;
+console.log(result);
+
+
+// Arrays
+
+let gpa = ['Harry', 'Sam', 'Ben', 3, 3.5, 4];
+console.log(gpa);
