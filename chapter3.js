@@ -26,3 +26,8 @@ console.log(result);
 
 let gpa = ['Harry', 'Sam', 'Ben', 3, 3.5, 4];
 console.log(gpa);
+
+
+let A = "asdf asd asdas";
+c = A.split(' ');
+console.log(c);
