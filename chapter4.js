@@ -8,7 +8,7 @@
 let age;
 console.log(age, age+3, `the age is ${age}`);
 
-let Age = null;
+let Age = 'Loru';
 console.log(Age, Age+3, `the Age is ${Age}`);
 
 // Booleans 
@@ -22,7 +22,7 @@ console.log(results);
 // comparision operators 
 
 let barsa = 25;
-console.log(barsa == 30);
+console.log('30' == 30);
 console.log(barsa != 30); // != mean not equals to 
 console.log(barsa < 18);
 console.log(barsa < 28);
