@@ -30,3 +30,11 @@ const greeting = function(name, day){
 
 greeting('wizard', 'morning');
 console.log('HEY');
+
+
+
+const GG = function(){
+    console.log();
+
+}
+
