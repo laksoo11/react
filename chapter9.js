@@ -1,8 +1,7 @@
-const para = document.querySelector('h1');
+const para = document.querySelector('.asd');
+console.log(para.innerHTML);
 
-console.log(para);
 
+const div = document.getElementById('#error');
 
-const div = document.querySelector('div.error');
-
-console.log(div);
+console.log(div.innerHTML);
