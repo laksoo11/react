@@ -12,7 +12,7 @@ const Game = function(userinput, botinput){
 
 
 } 
-
+Game('Scissor', 'Rock');
 const output = Game('Scissor','Rock');
 console.log(output);
 

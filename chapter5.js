@@ -38,7 +38,7 @@ else{
 
 let aaa = 'sun';
 switch (aaa){
-    case 1:
+    case 'Mon':
         console.log('GAYMANS')
         break
     case 'sun':

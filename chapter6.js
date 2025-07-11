@@ -38,3 +38,16 @@ const GG = function(){
 
 }
 
+
+const gg = function (){
+
+}
+
+
+
+function gg (){
+
+}
+
+
+const gg= () => {}

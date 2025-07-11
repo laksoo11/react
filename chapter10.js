@@ -1,10 +1,10 @@
 // Selecting elements
 
-document.getElementById();
+document.getElementById(); // hashtag #
 
-document.getElementsByClassName();
+document.getElementsByClassName(); // dot .
 
-document.getElementsByTagName();
+document.getElementsByTagName();  
 
 document.querySelector();
 
